@@ -1,4 +1,4 @@
-import Home_Img from "../../assets/home-img.png";
+import Home_Img from "/assets/home-img.png";
 export default function Home() {
   return (
     <div className="mx-auto w-full max-w-7xl">
